@@ -1,27 +1,48 @@
-<div align="center">
-  <h1>Jacky Zhong</h1>
-  <p><strong>Software engineer building practical AI agents and developer tools.</strong></p>
-  <p>UBC Statistics · Software Engineering Co-op at Motorola Solutions · Developer Relations (part-time) at Raft · Vancouver, Canada</p>
-  <p>
-    <a href="https://jacky-zhong.super.site/">Portfolio</a> ·
-    <a href="https://linkedin.com/in/zhong808800">LinkedIn</a> ·
-    <a href="https://x.com/JackyZhong0124">X</a>
-  </p>
-</div>
+# Hi, I'm Jacky 👋
 
----
+**📍 Vancouver · 📊 UBC Statistics · 🛠 Software Engineering Co-op @ Motorola Solutions · 🤝 Developer Relations @ Raft**
 
-I like turning messy human workflows into small, usable systems — from agent collaboration and browser tooling to local developer utilities.
+I build practical AI agents and developer tools that turn messy human workflows into small, usable systems.
 
-## Selected proof
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/CLI-111111?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" />
+</p>
 
-- **[OpenCLI](https://github.com/jackwener/OpenCLI)** — contributed the merged [Raft collaboration adapter](https://github.com/jackwener/OpenCLI/pull/1895), adding agent-facing support for messages, channels, tasks, attachments, and multi-server workflows.
-- **[Alook](https://github.com/alookai/alook)** — shipped three merged product contributions: [related-agent mentions](https://github.com/alookai/alook/pull/57), [paste-to-attach](https://github.com/alookai/alook/pull/52), and an [inline SVG avatar system](https://github.com/alookai/alook/pull/45).
-- **Raft** — operate a 5,000+ member builder community and a feedback pipeline covering 100+ reproducible issues and supporting 30+ merged PRs; built an agent-driven video workflow that reduced production from 15+ hours to about 30 minutes.
+## Start Here
 
-## Selected projects
+- 🧩 **[OpenCLI](https://github.com/jackwener/OpenCLI)** *(27k+ stars upstream)* — shipped the merged [Raft collaboration adapter](https://github.com/jackwener/OpenCLI/pull/1895) for messages, channels, tasks, attachments, and multi-server workflows.
+- 🤝 **[Alook](https://github.com/alookai/alook)** *(970+ stars upstream)* — shipped three merged product contributions: [related-agent mentions](https://github.com/alookai/alook/pull/57), [paste-to-attach](https://github.com/alookai/alook/pull/52), and an [inline SVG avatar system](https://github.com/alookai/alook/pull/45).
+- ⚡ **[Photon](https://github.com/Jacky040124/photon)** — fast, structured research from the terminal, built in Go and distributed through Homebrew.
+- 🏠 **[NestEase](https://github.com/Jacky040124/nestease)** — an AI-native property-management workflow for bilingual contractor coordination over SMS.
+- 🧠 **[Team Orchestrator](https://github.com/Jacky040124/claude-team-orchestrator)** — a Claude Code skill that plans and coordinates specialized agents in parallel.
+- 🚀 **[LaunchPad](https://github.com/Jacky040124/launchd-gui)** — a Rust GUI for inspecting and managing macOS `launchd` jobs safely.
 
-- **[Photon](https://github.com/Jacky040124/photon)** — a lightweight Go CLI for fast, structured research, distributed through Homebrew.
-- **[NestEase](https://github.com/Jacky040124/nestease)** — an AI-native property-management workflow for bilingual contractor coordination over SMS.
-- **[Team Orchestrator](https://github.com/Jacky040124/claude-team-orchestrator)** — a Claude Code skill that plans and coordinates specialized agents in parallel.
-- **[LaunchPad](https://github.com/Jacky040124/launchd-gui)** — a Rust GUI for inspecting and managing macOS `launchd` jobs safely.
+## Current Focus
+
+### AI Agents & Workflow Systems
+
+- **NestEase** — designing an agent workflow around real property-management communication, coordination, and follow-through.
+- **Raft** — operate a 5,000+ member builder community and a feedback pipeline covering 100+ reproducible issues and supporting 30+ merged PRs.
+- **Agent-driven media** — built a workflow that reduced product-video production from 15+ hours to about 30 minutes.
+
+### Developer Tools
+
+- **Photon** — a lightweight research CLI with a fast path from question to structured answer.
+- **LaunchPad** — a safer visual layer for macOS service management.
+- **Team Orchestrator** — practical multi-agent planning and execution inside Claude Code.
+
+### Open Source
+
+- **OpenCLI** — contributed a production-scale adapter across 105 files and 7,557 additions.
+- **Alook** — shipped three merged UX and collaboration improvements.
+
+## Find Me
+
+[Portfolio](https://jacky-zhong.super.site/) · [LinkedIn](https://linkedin.com/in/zhong808800) · [X](https://x.com/JackyZhong0124)
