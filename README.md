@@ -1,36 +1,27 @@
-# Hi, I'm Jacky 👋
+<div align="center">
+  <h1>Jacky Zhong</h1>
+  <p><strong>Software engineer building practical AI agents and developer tools.</strong></p>
+  <p>UBC Statistics · Software Engineering Co-op at Motorola Solutions · Developer Relations (part-time) at Raft · Vancouver, Canada</p>
+  <p>
+    <a href="https://jacky-zhong.super.site/">Portfolio</a> ·
+    <a href="https://linkedin.com/in/zhong808800">LinkedIn</a> ·
+    <a href="https://x.com/JackyZhong0124">X</a>
+  </p>
+</div>
 
-📍 Vancouver, Canada | 📊 UBC Statistics | 🤖 AI-Obsessed Builder
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+I like turning messy human workflows into small, usable systems — from agent collaboration and browser tooling to local developer utilities.
 
-> Building AI agents and developer tools at ludicrous speed. Open source contributor to Apache Lucene & Gemini CLI. Cursor Ambassador. Currently deep in the agent-coding rabbit hole.
+## Selected proof
 
-## Current Projects
+- **[OpenCLI](https://github.com/jackwener/OpenCLI)** — contributed the merged [Raft collaboration adapter](https://github.com/jackwener/OpenCLI/pull/1895), adding agent-facing support for messages, channels, tasks, attachments, and multi-server workflows.
+- **[Alook](https://github.com/alookai/alook)** — shipped three merged product contributions: [related-agent mentions](https://github.com/alookai/alook/pull/57), [paste-to-attach](https://github.com/alookai/alook/pull/52), and an [inline SVG avatar system](https://github.com/alookai/alook/pull/45).
+- **Raft** — operate a 5,000+ member builder community and a feedback pipeline covering 100+ reproducible issues and supporting 30+ merged PRs; built an agent-driven video workflow that reduced production from 15+ hours to about 30 minutes.
 
-- 🔍 [OpenQuest](https://github.com/Jacky040124/openquest) - AI agent that analyzes GitHub issues with sandboxed code execution (E2B + OpenRouter)
-- 🤖 [Job-Bot](https://github.com/Jacky040124/job-bot) - AI browser agent for automated job applications — 85% success rate across major ATS platforms
-- ⚡ [Photon](https://github.com/Jacky040124/wonder-mesh-net) - Lightweight CLI for instant LLM responses, distributed via Homebrew
-- 🦀 [NanoClaw](https://github.com/Jacky040124/nanoclaw) - Lightweight Clawdbot alternative — WhatsApp AI agent with memory & scheduled jobs
-- 🖥️ [OpenCLI](https://github.com/Jacky040124/opencli) - Make any website your CLI. AI-native browser automation & web data extraction
-- 🚀 [LaunchD GUI](https://github.com/Jacky040124/launchd-gui) - Free, modern GUI for managing macOS launchd services (Rust)
-- 🧠 [Acontext](https://github.com/Jacky040124/Acontext) - Context Data Platform for AI Agents
-- 🐝 [Hive](https://github.com/Jacky040124/hive) - Outcome-driven agent development framework that evolves
+## Selected projects
 
-## Open Source Contributions
-
-- 🔶 [Apache Lucene](https://github.com/apache/lucene) - Search engine library
-- 💎 [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's Gemini in the terminal
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhong808800)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/JackyZhong0124)
-[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=safari&logoColor=white)](https://jacky-zhong.super.site/)
+- **[Photon](https://github.com/Jacky040124/photon)** — a lightweight Go CLI for fast, structured research, distributed through Homebrew.
+- **[NestEase](https://github.com/Jacky040124/nestease)** — an AI-native property-management workflow for bilingual contractor coordination over SMS.
+- **[Team Orchestrator](https://github.com/Jacky040124/claude-team-orchestrator)** — a Claude Code skill that plans and coordinates specialized agents in parallel.
+- **[LaunchPad](https://github.com/Jacky040124/launchd-gui)** — a Rust GUI for inspecting and managing macOS `launchd` jobs safely.
