@@ -25,19 +25,18 @@ I build practical AI agents and developer tools that turn messy human workflows 
 
 ## Current Focus
 
-### AI Agents & Workflow Systems
+### Motorola Solutions — Software Engineer (Co-op)
 
-- **NestEase** — designing an agent workflow around real property-management communication, coordination, and follow-through.
-- **Raft** — operate a 5,000+ member builder community and a feedback pipeline covering 100+ reproducible issues and supporting 30+ merged PRs.
-- **Agent-driven media** — built a workflow that reduced product-video production from 15+ hours to about 30 minutes.
+- Building localization automation and QA tooling for 20+ products across 35+ languages.
+- Developing agentic visual QA and LLM evaluation workflows for multilingual product interfaces.
 
-### Developer Tools
+### Raft — Developer Relations Engineer (Part-time)
 
-- **Photon** — a lightweight research CLI with a fast path from question to structured answer.
-- **LaunchPad** — a safer visual layer for macOS service management.
-- **Team Orchestrator** — practical multi-agent planning and execution inside Claude Code.
+- Own and grow a 5,000+ member developer community, turning support and feedback into shipped product improvements.
+- Built an agent-driven video workflow that reduced production from 15+ hours to about 30 minutes per video.
+- Built a feedback pipeline covering 100+ reproducible issues and supporting 30+ merged PRs.
 
-### Open Source
+## Open Source
 
 - **Browser Use** — shipped a merged fix for reliable typing in Draft.js editors.
 - **OpenCLI** — contributed a production-scale adapter across 105 files and 7,557 additions.
