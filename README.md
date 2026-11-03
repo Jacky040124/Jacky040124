@@ -44,4 +44,4 @@ I build practical AI agents and developer tools that turn messy human workflows 
 
 ## Find Me
 
-[Portfolio](https://www.jacky-zhong.com) · [LinkedIn](https://linkedin.com/in/zhong808800) · [X](https://x.com/JackyZhong0124)
+[Portfolio](https://jacky-zhong.com) · [LinkedIn](https://linkedin.com/in/zhong808800) · [X](https://x.com/JackyZhong0124)
