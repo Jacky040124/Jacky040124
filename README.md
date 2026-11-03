@@ -18,10 +18,10 @@ I build practical AI agents and developer tools that turn messy human workflows 
 - 🌐 **[Browser Use](https://github.com/browser-use/browser-use)** *(105k+ stars upstream)* — fixed [Draft.js editors dropping the first typed character](https://github.com/browser-use/browser-use/pull/3896), a merged browser-automation reliability improvement for sites such as X.
 - 🧩 **[OpenCLI](https://github.com/jackwener/OpenCLI)** *(27k+ stars upstream)* — shipped the merged [Raft collaboration adapter](https://github.com/jackwener/OpenCLI/pull/1895) for messages, channels, tasks, attachments, and multi-server workflows.
 - 🤝 **[Alook](https://github.com/alookai/alook)** *(970+ stars upstream)* — shipped three merged product contributions: [related-agent mentions](https://github.com/alookai/alook/pull/57), [paste-to-attach](https://github.com/alookai/alook/pull/52), and an [inline SVG avatar system](https://github.com/alookai/alook/pull/45).
+- 📥 **[J-Inbox](https://github.com/Jacky040124/j-inbox-connector)** — one inbox for WhatsApp, LinkedIn, iMessage, Gmail and more, where AI agents can draft but a person approves every send. Built with AI coding agents and backed by 1,200+ tests.
 - ⚡ **[Photon](https://github.com/Jacky040124/photon)** — fast, structured research from the terminal, built in Go and distributed through Homebrew.
 - 🏠 **[NestEase](https://github.com/Jacky040124/nestease)** — an AI-native property-management workflow for bilingual contractor coordination over SMS.
 - 🧠 **[Team Orchestrator](https://github.com/Jacky040124/claude-team-orchestrator)** — a Claude Code skill that plans and coordinates specialized agents in parallel.
-- 🚀 **[LaunchPad](https://github.com/Jacky040124/launchd-gui)** — a Rust GUI for inspecting and managing macOS `launchd` jobs safely.
 
 ## Current Focus
 
@@ -44,4 +44,4 @@ I build practical AI agents and developer tools that turn messy human workflows 
 
 ## Find Me
 
-[Portfolio](https://jacky-zhong.super.site/) · [LinkedIn](https://linkedin.com/in/zhong808800) · [X](https://x.com/JackyZhong0124)
+[Portfolio](https://www.jacky-zhong.com) · [LinkedIn](https://linkedin.com/in/zhong808800) · [X](https://x.com/JackyZhong0124)
